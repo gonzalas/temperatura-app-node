@@ -4,7 +4,7 @@ Este es un ejercicio hecho en Node.js donde a partir de introducir un lugar la a
 
 Ejecutar ```npm install``` para las librerías.
 
-###Ejemplo:
+### Ejemplo:
 ```
 node app -d "Mar del Plata"
 ```
