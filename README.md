@@ -8,3 +8,4 @@ Ejecutar ```npm install``` para las librerías.
 ```
 node app -d "Mar del Plata"
 ```
+*La temperatura en Mar del Plata es de 10,15 grados.*
